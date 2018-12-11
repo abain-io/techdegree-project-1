@@ -1,1 +1,1 @@
-# Techdegree project 1
+# Treehouse Techdegree Project 1 - Personal Profile Page
