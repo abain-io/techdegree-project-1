@@ -18,7 +18,7 @@ a {
   color: #999;
 }
 a:hover {
-  color: #6633ff;
+  color: royalblue;
 }
 
 /* Section Styles */
@@ -86,7 +86,7 @@ header .profile-image:hover {
 }
 .location {
   background-color: #222;
-  color: royalblue;
+  color: white;
 }
 .card {
   margin: 30px;
@@ -99,7 +99,7 @@ header .profile-image:hover {
   transition: all .5s;
 }
 .card:hover {
-  border-color: #ff99ff;
+  border-color: crimson;
 }
 
 ul.skills {
@@ -110,14 +110,14 @@ ul.skills {
 .skills li {
   border-radius: 6px;
   display: inline-block;
-  background: #ff9904;
+  background: crimson;
   color: white;
   padding: 5px 10px;
   margin: 2px;
 }
 
 .skills li:nth-child(odd) {
-  background: #0399ff;
+  background: royalblue;
 }
 
 footer {
