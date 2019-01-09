@@ -122,7 +122,8 @@ ul.skills {
 }
 
 #experience {
-  padding-top: 60px;
+  padding-top: 10px;
+  text-align: justify;
 }
 
 email-image {
@@ -135,7 +136,7 @@ a.mailto{
 }
 
 a.mailto:hover {
-  color: crimson;
+  color: rgb(48, 97, 245);
 }
 
 footer {
@@ -214,6 +215,14 @@ a.social:hover {
   main p {
     line-height: 1.6em;
   }
+
+  .card-title {
+    text-align: left;
+    /* border: solid black 3px;
+    border-radius: 30px; */
+    margin-top: 10px;
+    
+}
 
   footer {
     font-size: 1.3em;
