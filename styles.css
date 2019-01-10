@@ -91,25 +91,33 @@ header .profile-image:hover {
 }
 .card {
   margin: 30px;
-  padding: 20px 40px 40px;
-  max-width: 500px;
+  padding: 20px 40px 20px;
+  max-width: 900px;
   text-align: justify;
   background: #fff;
-  border-bottom: 4px solid #ccc;
+  border-bottom: 5px solid #ccc;
   border-radius: 6px;
   transition: all .5s;
+  word-spacing: -1px;
 }
 .card:hover {
   border-color: crimson;
 }
 
+/* Deciding whether or not to eliminate the bullets and or use paragraphs instead here */
+.card li{
+  line-height: 110%;
+  padding-bottom: 10px;
+} 
+
 ul.skills {
-  padding: 0;
+  padding: 15px;
   text-align: center;
+  line-height: 110%;
 }
 
 .skills li {
-  border-radius: 6px;
+  border-radius: 50px;
   display: inline-block;
   background: green;
   color: white;
@@ -122,8 +130,8 @@ ul.skills {
 }
 
 #experience {
-  padding-top: 10px;
   text-align: justify;
+  list-style-type: disc;
 }
 
 email-image {
