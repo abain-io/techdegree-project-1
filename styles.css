@@ -67,8 +67,8 @@ header {
 }
 header .profile-image {
   margin-top: 50px;
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 200px;
   border-radius: 50%;
   border: 4px solid black;
   transition: all .6s;
@@ -93,7 +93,7 @@ header .profile-image:hover {
   margin: 30px;
   padding: 20px 40px 40px;
   max-width: 500px;
-  text-align: left;
+  text-align: justify;
   background: #fff;
   border-bottom: 4px solid #ccc;
   border-radius: 6px;
