@@ -52,7 +52,7 @@ a:hover {
   transition: all .5s;
 }
 .nav a:hover {
-  color: #3B7A57;
+  color: #01796F;
 }
 
 header {
@@ -120,7 +120,7 @@ ul.skills {
 .skills li {
   border-radius: 50px;
   display: inline-block;
-  background: #3B7A57;
+  background: #01796F;
   color: white;
   padding: 5px 10px;
   margin: 2px;
