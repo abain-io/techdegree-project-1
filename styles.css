@@ -140,12 +140,29 @@ email-image {
   width: 30%;
 }
 
+.contact-card {
+  flex-basis: 50%;
+  margin: 30px;
+  padding: 20px 40px 35px;
+  max-width: 1000px;
+  text-align: justify;
+  background: #fff;
+  border-bottom: 5px solid #ccc;
+  border-radius: 6px;
+  transition: all .5s;
+  word-spacing: -1px;
+}
+
+.contact-card:hover {
+  border-color: royalblue;
+}
+
 a.mailto{
-  color: #c7c7c7;
+  color: grey;
 }
 
 a.mailto:hover {
-  color: crimson;
+  color: royalblue;
 }
 
 footer {
