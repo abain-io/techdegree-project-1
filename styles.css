@@ -158,11 +158,11 @@ email-image {
 }
 
 a.mailto{
-  color: grey;
+  color: lightslategray;
 }
 
 a.mailto:hover {
-  color: royalblue;
+  color: lightseagreen;
 }
 
 footer {
