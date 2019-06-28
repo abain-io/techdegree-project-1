@@ -120,8 +120,7 @@ ul.skills {
 .skills li {
   border-radius: 50px;
   display: inline-block;
-  background: rgb(206, 38, 89
-  );
+  background: rgb(206, 38, 89);
   color: white;
   padding: 5px 10px;
   margin: 2px;
@@ -155,7 +154,7 @@ email-image {
 }
 
 .contact-card:hover {
-  border-color: royalblue;
+  border-color: rgb(189, 94, 31);
 }
 
 a.mailto{
@@ -163,7 +162,7 @@ a.mailto{
 }
 
 a.mailto:hover {
-  color: lightseagreen;
+  color:rgb(189, 94, 31);
 }
 
 footer {
