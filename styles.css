@@ -52,7 +52,7 @@ a:hover {
   transition: all .5s;
 }
 .nav a:hover {
-  color: #01796F;
+  color: rgb(206, 38, 89);
 }
 
 header {
@@ -86,7 +86,7 @@ header .profile-image:hover {
   margin: 10px auto;
 }
 .location {
-  background-color: #222;
+  background-color:rgb(206, 38, 89);
   color: white;
 }
 .card {
@@ -102,7 +102,7 @@ header .profile-image:hover {
   word-spacing: -1px;
 }
 .card:hover {
-  border-color: crimson;
+  border-color:rgb(206, 38, 89);
 }
 
 /* Deciding whether or not to eliminate the bullets and or use paragraphs instead here */
@@ -120,14 +120,15 @@ ul.skills {
 .skills li {
   border-radius: 50px;
   display: inline-block;
-  background: #01796F;
+  background: rgb(206, 38, 89
+  );
   color: white;
   padding: 5px 10px;
   margin: 2px;
 }
 
 .skills li:nth-child(odd) {
-  background: crimson;
+  background: rgb(189, 94, 31);
 }
 
 #experience {
